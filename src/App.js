@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <p className="App-intro">
-        Hi !
+        Hi, I was changed on the Feature branch!
       </p>
     </div>
   );
